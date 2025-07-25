@@ -1,12 +1,10 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=007BFF&center=true&vCenter=true&width=500&lines=Hey+Stranger!;I'm+Andryandraina.;Welcome+here+💙" alt="Typing SVG" />
+  <img src="https://user-images.githubusercontent.com/74038190/212558591-3c8206a3-f27b-4f15-bec7-5f12c6118ecf.gif" width="300px" alt="Girl coding gif"/>
+  <br/>
+  <span style="color:#007BFF; font-size:28px;">Hey Stranger!</span><br/>
+  <span style="font-size:24px;">I'm <strong>Andryandraina</strong></span><br/>
+  <span style="color:#FF69B4; font-size:20px;">Welcome here 💙</span>
 </h1>
-
----
-
-<div align="center">
-  <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="300px" alt="girl coding gif"/>
-</div>
 
 ---
 
@@ -35,6 +33,7 @@ Curieuse, motivée, toujours en quête de nouveaux défis 🚀
 ### 📬 Me contacter
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/louisa-karoza-andriandraina-1298b6254)  
-📧 andrainalouisa@gmail.com
+📧 **andrainalouisa@gmail.com**
+
 ---
 
