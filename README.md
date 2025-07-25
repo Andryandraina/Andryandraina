@@ -4,7 +4,8 @@
 
 <!-- GIF fille qui code (fonctionne) -->
 <p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="300px" alt="girl coding gif" />
+ <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300px" alt="girl typing dark theme" />
+
 </p>
 
 ---
