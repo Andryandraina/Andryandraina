@@ -1,6 +1,15 @@
-<h1 align="center">Hello 👋, it's Andryandraina</h1>
+<div align="center">
+  <h1 style="font-family: 'Fira Code', monospace; font-size: 45px; color: #4F46E5; animation: pulse 1.5s infinite;">
+    Hello, it's <span style="color: #10B981;">Andryandraina</span>
+  </h1>
+  <img src="https://github.com/Andryandraina/animated-header.gif" alt="Animated Banner" />
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=4F46E5&center=true&vCenter=true&width=435&lines=Fullstack+Developer;Supabase+Wizard;Logic+Lover" alt="Typing SVG" />
-</p>
+<style>
+@keyframes pulse {
+  0% { opacity: 0.6; transform: scale(1); }
+  50% { opacity: 1; transform: scale(1.05); }
+  100% { opacity: 0.6; transform: scale(1); }
+}
+</style>
 
