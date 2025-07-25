@@ -7,10 +7,10 @@
 
 ### 👩‍💻 À propos de moi
 
-Hello, moi c’est **Andryandraina** 👋  
-Je suis une **développeuse passionnée** par la création d’applications utiles et intuitives.  
-J’aime apprendre, construire et collaborer sur des projets tech.  
-Curieuse, motivée, toujours en quête de nouveaux défis 🚀
+Hey there, I’m Andryandraina 👋
+I’m a passionate developer who loves building apps that are both smart and user-friendly.
+I thrive on learning, creating, and teaming up on exciting tech projects.
+Curious and driven, I’m always on the lookout for my next challenge 🚀
 
 ---
 
