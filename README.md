@@ -5,7 +5,7 @@
 
 ---
 
-### 👩‍💻 À propos de moi
+### 👩‍💻 About Me : 
 
 Hey there, I’m Andryandraina 👋
 I’m a passionate developer who loves building apps that are both smart and user-friendly.
@@ -14,7 +14,7 @@ Curious and driven, I’m always on the lookout for my next challenge 🚀
 
 ---
 
-### 💼 Ce que j’utilise
+### 💼 What I Work With ⚙️
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -27,7 +27,7 @@ Curious and driven, I’m always on the lookout for my next challenge 🚀
 
 ---
 
-### 📬 Me contacter
+### 📬 Contact : 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/louisa-karoza-andriandraina-1298b6254)  
 📧 **andrainalouisa@gmail.com**
