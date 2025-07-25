@@ -2,12 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=007BFF&center=true&vCenter=true&width=435&lines=Hey+Stranger!;I'm+Andryandraina.;Welcome+here+💙" alt="Typing SVG" />
 </p>
 
-<!-- GIF fille qui code (fonctionne) -->
-<p align="center">
-<img src="https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif" width="300px" alt="pixel girl coding" />
-
-
-</p>
 
 ---
 
